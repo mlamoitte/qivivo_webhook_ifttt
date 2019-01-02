@@ -36,7 +36,7 @@ https://getcomposer.org/download/
 
 Clone the project into your apache project directory
 ```
-cd /var/www/ && git clone https://github.com/mlamoitte/qivivo_webhook_ifttt.git qivivo
+cd /var/www/ && git clone git@github.com:mlamoitte/qivivo_webhook_ifttt.git qivivo
 ```
 
 Install dependencies
